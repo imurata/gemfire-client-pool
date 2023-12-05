@@ -1,1 +1,1 @@
-# gemfire-client-regionshortcut
+# gemfire-client-pool
