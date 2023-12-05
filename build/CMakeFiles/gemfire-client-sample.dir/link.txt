@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gemfire-client-sample.dir/main.cpp.o -o gemfire-client-sample  -Wl,-rpath,/usr/local/nativeclient/lib /usr/local/nativeclient/lib/libvmware-gemfire.so 
